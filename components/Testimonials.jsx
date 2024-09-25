@@ -54,7 +54,7 @@ const Testimonials = () => {
                             </div>
                         </div>
                         <p className="text-gray-400 mb-4">
-                        After years of struggling with stress and anxiety, I finally decided to try the products from Wellness Brand. The transformation has been life-changing. The stress relief oils have become a staple in my daily routine, and every time I use them, I feel like I am giving myself a little moment of peace and calm. It's like I can finally breathe again. The oils, combined with the mindfulness classes, have not only helped me manage my stress but also taught me how to approach each day with a sense of balance. I can't recommend these enough.
+                        After years of struggling with stress and anxiety, I finally decided to try the products from Wellness Brand. The transformation has been life-changing. The stress relief oils have become a staple in my daily routine, and every time I use them, I feel like I am giving myself a little moment of peace and calm. It is like I can finally breathe again. The oils, combined with the mindfulness classes, have not only helped me manage my stress but also taught me how to approach each day with a sense of balance.
                         </p>
                         <div className="flex">
                             <span className="text-yellow-500">★★★★★</span>
