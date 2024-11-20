@@ -8,6 +8,7 @@ import Platforms from "@/components/Platforms";
 import Products from "@/components/Products";
 import Solutions from "@/components/Solutions";
 import Testimonials from "@/components/Testimonials";
+import InputForm from "@/components/InputForm";
 
 
 export default function Home() {
@@ -19,6 +20,8 @@ export default function Home() {
         <Hero />
 
         <Features />
+
+        <InputForm/>
 
         <DesignTools />
 
